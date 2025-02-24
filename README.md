@@ -1,10 +1,3 @@
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-
-
 # 你好！我是乔治 👋
 
 欢迎来到我的GitHub主页！  
