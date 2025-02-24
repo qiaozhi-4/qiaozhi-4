@@ -6,7 +6,7 @@
 ---
 
 ### 📊 我的统计
-![GitHub Contributions](https://contrib.rocks/image?repo=qiaozhi-4/qiaozhi-4)  
+![Contribution Grid](https://github-readme-contribution-grid-snake.vercel.app/api?username=qiaozhi-4&color_snake=#00FF00&color_dots=#BFDADC,#56A3A6,#8FB8AA,#D8E8E8,#FFFFFF)  
 ![qiaozhi-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaozhi-4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaozhi-4&layout=compact&theme=tokyonight&langs_count=8)  
 ![Commit Frequency](https://github-readme-streak-stats.herokuapp.com/?user=qiaozhi-4&theme=tokyonight)
