@@ -6,10 +6,10 @@
 ---
 
 ### 📊 我的统计
+![GitHub Contributions](https://metrics.lecoq.io/qiaozhi-4?template=classic&isocalendar=1&base=header&base.indepth=false&base.hireable=false&isocalendar.duration=full-year&config.timezone=Asia%2FShanghai)  
 ![qiaozhi-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaozhi-4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaozhi-4&layout=compact&theme=tokyonight&langs_count=8)  
-![Commit Frequency](https://github-readme-streak-stats.herokuapp.com/?user=qiaozhi-4&theme=tokyonight)  
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=qiaozhi-4&theme=tokyonight)
+![Commit Frequency](https://github-readme-streak-stats.herokuapp.com/?user=qiaozhi-4&theme=tokyonight)
 
 ---
 
