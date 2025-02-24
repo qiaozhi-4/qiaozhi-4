@@ -48,20 +48,8 @@
 
 ---
 
-### 🌟 我的项目
-- **[项目名](链接)**: 一个简单的描述。
-- **[项目名](链接)**: 另一个有趣的项目。
-
----
-
-### 🎓 教育经历
-- **学校名称** | **专业** | **时间**  
-  一个简短的描述，比如在校期间的项目或成就。
-
----
-
 ### 📫 联系我
-![Email](https://img.shields.io/badge/Email-xxx@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)  
-![Twitter](https://img.shields.io/badge/Twitter-@你的账号-1DA1F2?style=flat-square&logo=twitter&logoColor=white)
+![Email](https://img.shields.io/badge/Email-18890176107@163.com-D14836?style=flat-square&logo=163&logoColor=white)  
+[![Telegram](https://img.shields.io/badge/Telegram-@XGeorgeSE-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/XGeorgeSE)
 
 感谢访问！😊
