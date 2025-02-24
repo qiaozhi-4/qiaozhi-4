@@ -6,7 +6,7 @@
 ---
 
 ### 📊 我的统计
-![Contribution Grid](https://github-contribution-grid.vercel.app/api?username=qiaozhi-4)  
+![Contribution Grid](https://camo.githubusercontent.com/634abfc8d217db23ac7a5d7874579f3f93bbe715f005978ba7fff74d4a4f1b52/68747470733a2f2f6769746875622d70726f66696c652d73756d6d6172792d63617264732e76657263656c2e6170702f6170692f63617264732f70726f66696c652d64657461696c733f757365726e616d653d7169616f7a68692d34267468656d653d746f6b796f6e69676874)  
 ![qiaozhi-4's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qiaozhi-4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)  
 ![Language Usage](https://github-readme-stats.vercel.app/api/top-langs/?username=qiaozhi-4&layout=compact&theme=tokyonight&langs_count=8)  
 ![Commit Frequency](https://github-readme-streak-stats.herokuapp.com/?user=qiaozhi-4&theme=tokyonight)
