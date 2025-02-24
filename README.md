@@ -1,20 +1,18 @@
-## Hi there 👋
+# 你好！我是乔治 👋
 
-<!--
-**qiaozhi-4/qiaozhi-4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎来到我的GitHub主页！  
+我是一个对编程充满热情的开发者，喜欢探索新技术和解决问题。
 
-Here are some ideas to get you started:
+### 🔧 我的技能
+- **语言**: Python, JavaScript, Java
+- **工具**: Git, Docker, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌟 我的项目
+- **[项目名](链接)**: 一个简单的描述。
+- **[项目名](链接)**: 另一个有趣的项目。
 
-<div align="center"> <img src="https://metrics.lecoq.io/qiaozhi-4?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=qiaozhi-4&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+### 📫 联系我
+- Email: xxx@example.com
+- Twitter: @你的账号
 
+感谢访问！😊
