@@ -1,0 +1,8 @@
+[
+    {
+        "id": "1",
+        "title": "更新公告",
+        "args": "https://gitee.com/qiaozhi-4/qiaozhi-4/raw/cloud-store/README.md",
+        "action": "markdown"
+    }
+]
