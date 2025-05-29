@@ -1,14 +1,14 @@
 [
     {
         "author": "仙喵阁",
-        "markdown": "https://gitee.com/qiaozhi-4/qiaozhi-4/raw/cloud-store/README.md",
-        "ctime": "2025/05/07 11:20:00",
+        "markdown": "https://gitee.com/qiaozhi-4/qiaozhi-4/raw/cloud-store/script/云更/README.md",
+        "ctime": "2025/05/29 22:57:00",
         "source": "https://github.com/qiaozhi-4",
         "id": "xmg",
         "title": "多游戏通用脚本",
         "type": "Frida",
         "version": "1.0.1",
-        "url": "https://gitee.com/qiaozhi-4/qiaozhi-4/raw/cloud-store/script/云更.charge.js",
+        "url": "https://gitee.com/qiaozhi-4/qiaozhi-4/raw/cloud-store/script/云更/cloud.min.js.enc.js",
         "desc": "多游戏通用脚本",
         "down_count": 888
     }
