@@ -1,5 +1,5 @@
 {
-  "assemblyName": "NetSystem",
+  "assemblyName": "ExtraPass2",
   "className": "NetSystem.C2S_Count",
   "netData": {
     "uid": "96d237f6-45b9-409d-9939-89cf75174895",
@@ -41,7 +41,7 @@
     "exp": 42,
     "dailyTask": [
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20005,
@@ -50,7 +50,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20010,
@@ -59,7 +59,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20014,
@@ -68,7 +68,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20011,
@@ -77,7 +77,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30011,
@@ -86,7 +86,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30003,
@@ -95,7 +95,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20012,
@@ -104,7 +104,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30011,
@@ -113,7 +113,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30012,
@@ -122,7 +122,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30013,
@@ -131,7 +131,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30014,
@@ -142,7 +142,7 @@
     ],
     "achievemenetTask": [
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10000,
@@ -154,7 +154,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10001,
@@ -166,7 +166,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10002,
@@ -178,7 +178,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10003,
@@ -190,7 +190,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10004,
@@ -202,7 +202,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10005,
@@ -214,7 +214,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10006,
@@ -226,7 +226,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10007,
@@ -238,7 +238,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10008,
@@ -250,7 +250,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10009,
@@ -262,7 +262,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10010,
@@ -274,7 +274,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10011,
@@ -286,7 +286,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10012,
@@ -298,7 +298,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10013,
@@ -310,7 +310,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10014,
@@ -322,7 +322,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10015,
@@ -334,7 +334,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10016,
@@ -346,7 +346,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10017,
@@ -358,7 +358,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10018,
@@ -370,7 +370,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10019,
@@ -382,7 +382,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10020,
@@ -394,7 +394,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10021,
@@ -406,7 +406,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10022,
@@ -418,7 +418,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10023,
@@ -430,7 +430,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10024,
@@ -442,7 +442,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10025,
@@ -454,7 +454,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10026,
@@ -466,7 +466,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10027,
@@ -478,7 +478,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10028,
@@ -490,7 +490,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10029,
@@ -502,7 +502,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10030,
@@ -514,7 +514,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10031,
@@ -526,7 +526,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10032,
@@ -538,7 +538,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10033,
@@ -550,7 +550,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10034,
@@ -562,7 +562,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10035,
@@ -574,7 +574,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10036,
@@ -586,7 +586,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10037,
@@ -598,7 +598,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10038,
@@ -610,7 +610,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10039,
@@ -622,7 +622,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10040,
@@ -634,7 +634,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10041,
@@ -646,7 +646,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10042,
@@ -658,7 +658,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10043,
@@ -670,7 +670,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10044,
@@ -682,7 +682,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10045,
@@ -694,7 +694,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10046,
@@ -706,7 +706,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10047,
@@ -718,7 +718,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10048,
@@ -730,7 +730,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10049,
@@ -742,7 +742,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10050,
@@ -754,7 +754,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 10051,
@@ -766,7 +766,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20000,
@@ -778,7 +778,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20001,
@@ -790,7 +790,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20002,
@@ -802,7 +802,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20003,
@@ -814,7 +814,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20004,
@@ -826,7 +826,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20005,
@@ -838,7 +838,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20006,
@@ -850,7 +850,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20007,
@@ -862,7 +862,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20008,
@@ -874,7 +874,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20009,
@@ -886,7 +886,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20010,
@@ -898,7 +898,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20011,
@@ -910,7 +910,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 20012,
@@ -922,7 +922,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30000,
@@ -934,7 +934,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30001,
@@ -946,7 +946,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30002,
@@ -958,7 +958,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30003,
@@ -970,7 +970,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 30004,
@@ -982,7 +982,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40000,
@@ -994,7 +994,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40001,
@@ -1006,7 +1006,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40002,
@@ -1018,7 +1018,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40003,
@@ -1030,7 +1030,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40004,
@@ -1042,7 +1042,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40005,
@@ -1054,7 +1054,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40006,
@@ -1066,7 +1066,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40007,
@@ -1078,7 +1078,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40008,
@@ -1090,7 +1090,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40009,
@@ -1102,7 +1102,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40010,
@@ -1114,7 +1114,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40011,
@@ -1126,7 +1126,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40012,
@@ -1138,7 +1138,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40013,
@@ -1150,7 +1150,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 40014,
@@ -1162,7 +1162,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50044,
@@ -1174,7 +1174,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50045,
@@ -1186,7 +1186,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50046,
@@ -1198,7 +1198,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50047,
@@ -1210,7 +1210,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50048,
@@ -1222,7 +1222,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50049,
@@ -1234,7 +1234,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50050,
@@ -1246,7 +1246,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50051,
@@ -1258,7 +1258,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 50052,
@@ -1270,7 +1270,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60000,
@@ -1282,7 +1282,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60001,
@@ -1294,7 +1294,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60002,
@@ -1306,7 +1306,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60003,
@@ -1318,7 +1318,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60004,
@@ -1330,7 +1330,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60005,
@@ -1342,7 +1342,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60006,
@@ -1354,7 +1354,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60007,
@@ -1366,7 +1366,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60008,
@@ -1378,7 +1378,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60009,
@@ -1390,7 +1390,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60010,
@@ -1402,7 +1402,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60011,
@@ -1414,7 +1414,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60012,
@@ -1426,7 +1426,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60013,
@@ -1438,7 +1438,7 @@
         }
       },
       {
-        "assemblyName": "NetSystem",
+        "assemblyName": "ExtraPass2",
         "className": "NetSystem.C2S_DailyTask",
         "netData": {
           "taskId": 60014,
@@ -1456,7 +1456,7 @@
     ],
     "passCountConfig": "LongMapFirst-e",
     "moneyData": {
-      "assemblyName": "NetSystem",
+      "assemblyName": "ExtraPass2",
       "className": "NetSystem.MoneyData",
       "netData": {
         "diamond": 1092,
