@@ -1,7 +1,6 @@
-游戏加速添加激活按钮
+优化 ImGui 渲染方式,默认 dex 渲染,如果失败 10s 后游戏渲染
 
 关于激活
 启动游戏后会写入设备 id ,复制设备 id 找我,我会给你卡密,你放到指定位置
-
 卡密位置: /storage/emulated/0/Android/data/<游戏包名>/files/xmg.key
 ID 位置: /storage/emulated/0/Android/data/<游戏包名>/files/xmg.id
