@@ -1,6 +1,6 @@
 {
-    "versionCode": 7,
-    "versionName": "1.0.10",
+    "versionCode": 8,
+    "versionName": "1.0.11",
     "url": "https://gitee.com/qiaozhi-4/qiaozhi-4/releases/download/apk/app-release.apk",
     "description": "修复若干bug，优化性能"
 }
