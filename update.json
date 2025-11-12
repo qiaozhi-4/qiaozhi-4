@@ -1,6 +1,6 @@
 {
-    "versionCode": 3,
-    "versionName": "1.2.7",
-    "url": "https://gitee.com/qiaozhi-4/qiaozhi-4/releases/download/1.2.7-beta/app-release.apk",
-    "description": "自动化发布测试版"
+    "versionCode": 4,
+    "versionName": "1.2.8",
+    "url": "https://gitee.com/qiaozhi-4/qiaozhi-4/releases/download/1.2.8/app-release.apk",
+    "description": "修复部分 BUG"
 }
