@@ -1,5 +1,6 @@
 {
     "versionCode": 21,
+    "minVersionCode": 22,
     "versionName": "1.2.12",
     "url": "https://github.com/qiaozhi-4/qiaozhi-4/releases/download/1.2.12/app-release.apk",
     "description": "修复部分 BUG"
