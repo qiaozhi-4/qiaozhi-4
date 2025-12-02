@@ -3,5 +3,5 @@
     "minVersionCode": 32,
     "versionName": "1.2.24",
     "url": "https://github.com/qiaozhi-4/qiaozhi-4/releases/download/1.2.24/app-release.apk",
-    "description": "修复部分 BUG"
+    "description": "优化绘制性能，修复部分已知问题。"
 }
