@@ -1,0 +1,1913 @@
+{
+  "assemblyName": "ExtraPass2",
+  "className": "NetSystem.C2S_Count",
+  "netData": {
+    "uid": "690b6811-bcce-47d9-a6b2-b487e310640a",
+    "roomId": "051763e8-3c67-464a-9495-668f129f0f50",
+    "roomUidArray": [
+      "690b6811-bcce-47d9-a6b2-b487e310640a"
+    ],
+    "characterName": [
+      "BloodMage"
+    ],
+    "characterLevel": [
+      5
+    ],
+    "characterSkin": [
+      0
+    ],
+    "rewardMulArray": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "personalCountArray": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "gameTime": 1823000,
+    "gameType": 2,
+    "difficulty": 1,
+    "gameTypeOtherMessage": "",
+    "gameResult": 1,
+    "totalReward": 231,
+    "exp": 81,
+    "dailyTask": [
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20005,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20004,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20014,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30005,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30004,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20012,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30011,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30012,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30013,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30014,
+          "num": 0,
+          "extraData": []
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30005,
+          "num": 0,
+          "extraData": []
+        }
+      }
+    ],
+    "achievemenetTask": [
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10000,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10001,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10002,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10003,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10004,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10005,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10006,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10007,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10008,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10009,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10010,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10011,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10012,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10013,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10014,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10015,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10016,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10017,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10018,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10019,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10020,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10021,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10022,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10023,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10024,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10025,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10026,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10027,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10028,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10029,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10030,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10031,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10032,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10033,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10034,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10035,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10036,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10037,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10038,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10039,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10040,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10041,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10042,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10043,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10044,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10045,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10046,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10047,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10048,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10049,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10050,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10051,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10052,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10053,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10054,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10055,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10056,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10057,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10058,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10059,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10060,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10061,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10062,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10063,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10064,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 10065,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20000,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20001,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20002,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20003,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20004,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20005,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20006,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20007,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20008,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20009,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20010,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20011,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 20012,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30000,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30001,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30002,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30003,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30004,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30005,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30006,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 30007,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40000,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40001,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40002,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40003,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101,
+            2204
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40004,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40005,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40006,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40007,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40008,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40009,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40010,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40011,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40012,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40013,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40014,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40015,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40016,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40017,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40018,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 40019,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50044,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50045,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50046,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50047,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50048,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50049,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50050,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50051,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50052,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60000,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60001,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60002,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60003,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60004,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60005,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60006,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60007,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60008,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60009,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60010,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60011,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60012,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60013,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60014,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50053,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50054,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 50055,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60015,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60016,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60017,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60018,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.C2S_DailyTask",
+        "netData": {
+          "taskId": 60019,
+          "num": 0,
+          "extraData": [
+            -100,
+            -101
+          ]
+        }
+      }
+    ],
+    "certificateNum": 0,
+    "roomNickNameArray": [
+      "b22cc451cc5044d6"
+    ],
+    "passCountConfig": "LongMapDifficulty-e",
+    "moneyData": {
+      "assemblyName": "ExtraPass2",
+      "className": "NetSystem.MoneyData",
+      "netData": {
+        "diamond": 231,
+        "newYearMoney": 0,
+        "star": 0,
+        "dollMatchineCoin": 0,
+        "crystal": 0
+      }
+    },
+    "configType": "68988423042eac1b5c200a17d8b2196eb29b6637",
+    "valueType": "F455540DE15C3FF3E34B0EFA875E07BB7450E1C6",
+    "moneyDataType": "b51c037104085758664527da29617ba302aec0ca",
+    "materialData": [
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1001,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1002,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1003,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1011,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1012,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1013,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1021,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1022,
+          "num": 10
+        }
+      },
+      {
+        "assemblyName": "ExtraPass2",
+        "className": "NetSystem.MaterialData",
+        "netData": {
+          "id": 1023,
+          "num": 10
+        }
+      }
+    ],
+    "materialDataType": "a1a3ab793e7149c4cad31ecd3bf867e3be3ce433",
+    "level": 9999,
+    "factorNum": 0,
+    "numOfPeriods": 0
+  },
+  "fileName": "NetSystem.C2S_Count-20251118171945.json"
+}
