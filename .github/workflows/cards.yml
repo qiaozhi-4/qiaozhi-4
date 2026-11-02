@@ -1,0 +1,42 @@
+name: 更新主页卡片
+
+on:
+  schedule:
+    - cron: "0 21 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/gen_cards.py"
+      - ".github/workflows/cards.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 生成 SVG 卡片
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_LOGIN: qiaozhi-4
+        run: python scripts/gen_cards.py
+
+      - name: 提交变更
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- assets; then
+            echo "卡片无变化，跳过提交"
+            exit 0
+          fi
+          git add assets
+          git commit -m "chore: 自动更新主页统计卡片"
+          git push

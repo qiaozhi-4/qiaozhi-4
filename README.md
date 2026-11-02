@@ -65,15 +65,15 @@
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=qiaozhi-4&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+      <img src="assets/stats.svg" alt="GitHub 统计" />
     </td>
     <td width="50%" align="center">
-      <img src="https://streak-stats.demolab.com/?user=qiaozhi-4&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+      <img src="assets/recent.svg" alt="最近更新" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=qiaozhi-4&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&card_width=446&exclude_repo=imgui" alt="Top Languages" />
+      <img src="assets/activity.svg" alt="近一年贡献" />
     </td>
   </tr>
 </table>
@@ -86,36 +86,28 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/qiaozhi-4/skill-forge">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qiaozhi-4&repo=skill-forge&theme=tokyonight&hide_border=true" alt="skill-forge" />
+        <img src="assets/repo-skill-forge.svg" alt="skill-forge" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/qiaozhi-4/GameBox-Release">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qiaozhi-4&repo=GameBox-Release&theme=tokyonight&hide_border=true" alt="GameBox-Release" />
+        <img src="assets/repo-gamebox-release.svg" alt="GameBox-Release" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/qiaozhi-4/monitor-kvm-switch">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qiaozhi-4&repo=monitor-kvm-switch&theme=tokyonight&hide_border=true" alt="monitor-kvm-switch" />
+        <img src="assets/repo-monitor-kvm-switch.svg" alt="monitor-kvm-switch" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/qiaozhi-4/script-store">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=qiaozhi-4&repo=script-store&theme=tokyonight&hide_border=true" alt="script-store" />
+        <img src="assets/repo-script-store.svg" alt="script-store" />
       </a>
     </td>
   </tr>
 </table>
-
----
-
-### 🐍 活跃度
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/qiaozhi-4" alt="Contribution Graph" width="95%" />
-</p>
 
 ---
 
