@@ -17,7 +17,6 @@ ROOT = Path(__file__).resolve().parent.parent
 ASSETS = ROOT / "assets"
 
 LOGIN = os.environ.get("GH_LOGIN", "qiaozhi-4")
-FEATURED = ["skill-forge", "GameBox-Release", "monitor-kvm-switch", "script-store"]
 
 # Tokyo Night
 BG = "#1a1b27"
@@ -42,9 +41,7 @@ query($login: String!) {
       totalCount
       nodes {
         name
-        description
         stargazerCount
-        forkCount
         pushedAt
         primaryLanguage { name color }
       }
@@ -178,6 +175,33 @@ def heading(label: str, w: int, note: str = "") -> str:
 
 # ---------- 卡片 ----------
 
+def render_banner() -> str:
+    w, h = 880, 190
+    cx = w / 2
+    body = (
+        "<defs>"
+        '<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">'
+        f'<stop offset="0" stop-color="{BG}"/>'
+        f'<stop offset="1" stop-color="{BORDER}"/>'
+        "</linearGradient>"
+        "</defs>"
+        f'<rect x="0.5" y="0.5" width="{w - 1}" height="{h - 1}" rx="12" '
+        'fill="url(#bg)" stroke="' + BORDER + '"/>'
+        f'<text x="{cx}" y="86" text-anchor="middle" font-size="60" font-weight="700" '
+        f'fill="{ACCENT}" letter-spacing="1">George</text>'
+        f'<rect x="{cx - 28}" y="104" width="56" height="3" rx="1.5" '
+        f'fill="{ACCENT}" opacity="0.55"/>'
+        f'<text x="{cx}" y="136" text-anchor="middle" font-size="15" fill="{MUTED}">'
+        "Java Backend · Spring Boot · Vue</text>"
+        f'<text x="{cx}" y="162" text-anchor="middle" font-size="13" fill="{MUTED}">'
+        "热爱编程，把想法写成能跑的服务</text>"
+    )
+    return (
+        f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" '
+        f'viewBox="0 0 {w} {h}" font-family="{FONT}">{body}</svg>'
+    )
+
+
 def render_stats(user: dict, stars: int, cur: int, longest: int, contrib: int) -> str:
     w, h = 420, 215
     metrics = [
@@ -225,96 +249,6 @@ def render_recent(repos: list[dict]) -> str:
     return shell(w, h, "".join(body))
 
 
-def render_activity(weeks: list[dict], total: int) -> str:
-    w, h = 860, 205
-    cell, gap = 12, 3
-    levels = ["#1f2335", "#0e4429", "#006d32", "#26a641", "#39d353"]
-    body = [heading("近一年贡献", w, f"共 {fmt(total)} 次")]
-
-    x0, y0 = 24, 62
-    for wi, week in enumerate(weeks):
-        for di, day in enumerate(week["contributionDays"]):
-            count = day["contributionCount"]
-            level = 0 if count == 0 else 1 if count < 3 else 2 if count < 6 else 3 if count < 10 else 4
-            body.append(
-                f'<rect x="{x0 + wi * (cell + gap)}" y="{y0 + di * (cell + gap)}" '
-                f'width="{cell}" height="{cell}" rx="2" fill="{levels[level]}"/>'
-            )
-
-    legend_y = y0 + 7 * (cell + gap) + 14
-    body.append(
-        f'<text x="{x0}" y="{legend_y}" font-size="11" fill="{MUTED}">少</text>'
-    )
-    for i, color in enumerate(levels):
-        body.append(
-            f'<rect x="{x0 + 22 + i * 16}" y="{legend_y - 9}" width="12" height="12" '
-            f'rx="2" fill="{color}"/>'
-        )
-    body.append(
-        f'<text x="{x0 + 22 + len(levels) * 16}" y="{legend_y}" font-size="11" '
-        f'fill="{MUTED}">多</text>'
-    )
-    return shell(w, h, "".join(body))
-
-
-STAR_PATH = (
-    "M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279"
-    "l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 "
-    "0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327"
-    ".668A.75.75 0 0 1 8 .25Z"
-)
-FORK_PATH = (
-    "M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 "
-    "1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0"
-    "V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75"
-    ".75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 "
-    "0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"
-)
-
-
-def render_repo(repo: dict) -> str:
-    w, h = 420, 96
-    lang = repo.get("primaryLanguage") or {}
-    desc = repo.get("description") or "暂无描述"
-
-    body = [
-        f'<text x="20" y="32" font-size="15" font-weight="700" fill="{ACCENT}">'
-        f'{esc(clip(repo["name"], w - 40, 15, True))}</text>',
-        f'<text x="20" y="56" font-size="11" fill="{MUTED}">'
-        f"{esc(clip(desc, w - 40, 11))}</text>",
-    ]
-
-    foot_y = h - 18
-    if lang.get("name"):
-        body.append(
-            f'<circle cx="25" cy="{foot_y - 4}" r="4" fill="{lang.get("color") or MUTED}"/>'
-        )
-        body.append(
-            f'<text x="35" y="{foot_y}" font-size="11" fill="{MUTED}">'
-            f'{esc(clip(lang["name"], 150, 11))}</text>'
-        )
-
-    # 右下角：star / fork 计数，从右往左排
-    cursor = w - 20
-    for path, value in (
-        (FORK_PATH, repo["forkCount"]),
-        (STAR_PATH, repo["stargazerCount"]),
-    ):
-        label = str(value)
-        body.append(
-            f'<text x="{cursor}" y="{foot_y}" font-size="11" fill="{MUTED}" '
-            f'text-anchor="end">{label}</text>'
-        )
-        cursor -= text_w(label, 11) + 5
-        body.append(
-            f'<g transform="translate({cursor - 12:.1f},{foot_y - 12}) scale(0.75)" '
-            f'fill="{MUTED}"><path d="{path}"/></g>'
-        )
-        cursor -= 12 + 14
-
-    return shell(w, h, "".join(body))
-
-
 # ---------- 主流程 ----------
 
 def main() -> None:
@@ -322,7 +256,6 @@ def main() -> None:
     user = fetch(token)
 
     repos = user["repositories"]["nodes"]
-    by_name = {repo["name"]: repo for repo in repos}
 
     weeks = user["contributionsCollection"]["contributionCalendar"]["weeks"]
     contrib = user["contributionsCollection"]["contributionCalendar"]["totalContributions"]
@@ -332,16 +265,10 @@ def main() -> None:
     if not ASSETS.exists():
         ASSETS.mkdir(parents=True)
     outputs = {
+        "banner.svg": render_banner(),
         "stats.svg": render_stats(user, stars, current, longest, contrib),
         "recent.svg": render_recent([r for r in repos if r["name"] != LOGIN]),
-        "activity.svg": render_activity(weeks, contrib),
     }
-    for name in FEATURED:
-        repo = by_name.get(name)
-        if repo is None:
-            print(f"跳过 {name}：仓库不存在或已转为私有")
-            continue
-        outputs[f"repo-{name.lower()}.svg"] = render_repo(repo)
 
     for filename, content in outputs.items():
         (ASSETS / filename).write_text(content, encoding="utf-8")
