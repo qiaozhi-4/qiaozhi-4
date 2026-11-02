@@ -1,0 +1,10 @@
+# 本地工具目录（WorkBuddy 项目笔记等），不纳入版本管理
+.workbuddy-ai/
+
+# macOS
+.DS_Store
+
+# 编辑器
+.idea/
+.vscode/
+*.swp
